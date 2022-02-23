@@ -44,12 +44,8 @@ body{
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(red, orange, yellow, lime, green, blue, purple, magenta);
+  background-color: #45ccbedd;
   box-shadow: inset 0 0 15px 0 #000a;
-}
-
-.top, .bottom{
-  background-image: radial-gradient(magenta, purple, blue, green, lime, yellow, orange, red);
 }
 
 .front{
